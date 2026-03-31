@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+tasks.db
+uploads/
+.vscode/
+.DS_Store
